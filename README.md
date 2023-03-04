@@ -1,4 +1,4 @@
-### This app can be access on,
+### This app can be accessed using,
 
 
 ### It's a clone of issues page of React

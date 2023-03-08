@@ -2,3 +2,4 @@
 
 
 ### It's a clone of issues page of React
+(Tried experiment infinite scroll at the page end)
